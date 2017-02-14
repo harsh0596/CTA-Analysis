@@ -1,0 +1,9 @@
+C:\Users\Harsh\documents\visual studio 2015\Projects\hpate34hw6\hpate34hw6\bin\Release\hpate34hw6.exe.config
+C:\Users\Harsh\documents\visual studio 2015\Projects\hpate34hw6\hpate34hw6\bin\Release\hpate34hw6.exe
+C:\Users\Harsh\documents\visual studio 2015\Projects\hpate34hw6\hpate34hw6\bin\Release\hpate34hw6.pdb
+C:\Users\Harsh\documents\visual studio 2015\Projects\hpate34hw6\hpate34hw6\obj\Release\hpate34hw6.csprojResolveAssemblyReference.cache
+C:\Users\Harsh\documents\visual studio 2015\Projects\hpate34hw6\hpate34hw6\obj\Release\hpate34hw6.Form1.resources
+C:\Users\Harsh\documents\visual studio 2015\Projects\hpate34hw6\hpate34hw6\obj\Release\hpate34hw6.Properties.Resources.resources
+C:\Users\Harsh\documents\visual studio 2015\Projects\hpate34hw6\hpate34hw6\obj\Release\hpate34hw6.csproj.GenerateResource.Cache
+C:\Users\Harsh\documents\visual studio 2015\Projects\hpate34hw6\hpate34hw6\obj\Release\hpate34hw6.exe
+C:\Users\Harsh\documents\visual studio 2015\Projects\hpate34hw6\hpate34hw6\obj\Release\hpate34hw6.pdb
